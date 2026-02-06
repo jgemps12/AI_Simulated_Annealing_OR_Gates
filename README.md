@@ -8,4 +8,6 @@ generated. These configurations are then accepted or rejected based on the annea
 The Google Colab notebook can be viewed by clicking this **link**:
 https://colab.research.google.com/drive/13P52jxg38IKJCDFAnEBnfRDU_Pn_uv1H?usp=sharing
 
+To view an HTML version of the Colab notebook, click on `Simulated_Annealing.html` in this repository, then press **Download raw file**.
+
 Detailed information on this project's data, results, and analysis is provided in this repository's **Overleaf report**.
