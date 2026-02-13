@@ -10,4 +10,4 @@ https://colab.research.google.com/drive/13P52jxg38IKJCDFAnEBnfRDU_Pn_uv1H?usp=sh
 
 To view an **HTML version** of the Colab notebook, click on `Simulated_Annealing.html` in this repository, then press **Download raw file**.
 
-Detailed information on this project's data, results, and analysis is provided in this repository's **Overleaf report**.
+Detailed information on this project's data, results, and analysis is provided in this repository's **Overleaf report**. To view the Web version, feel free to click on this link: https://www.overleaf.com/read/xmvsvvywxbzg#4a012f 
